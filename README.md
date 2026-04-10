@@ -18,7 +18,7 @@ Apresentação do relatório com navegação entre páginas.
 Faturamento, lucro bruto, margem, volume de pedidos e ticket médio.
 Evolução mensal, distribuição por estado e ranking de produtos por lucro.
 
-![Vendas](imagens/vendas.jpg)
+![Vendas](2vendas.jpg)
 
 ---
 
@@ -26,7 +26,7 @@ Evolução mensal, distribuição por estado e ranking de produtos por lucro.
 Volume e valor de devoluções, taxa de devolução, motivos de retorno e status dos reembolsos.
 Distribuição por canal (Site, Marketplace, App) e por estado.
 
-![Devoluções](imagens/devolucoes.jpg)
+![Devoluções](3devoluções.jpg)
 
 ---
 
@@ -34,14 +34,14 @@ Distribuição por canal (Site, Marketplace, App) e por estado.
 Valor total em estoque, cobertura em dias, avarias, produtos em status crítico e em ruptura.
 Evolução mensal do valor de estoque e tabela de alertas por produto.
 
-![Estoque](imagens/estoque.png)
+![Estoque](4estoque.jpg)
 
 ---
 
 ### Visão de Negócio
 Lucro bruto por categoria, margem por produto, desempenho por estado e evolução mensal do lucro.
 
-![Visão de Negócio](imagens/visao_negocio.png)
+![Visão de Negócio](5visaonegocio.jpg)
 
 ---
 
