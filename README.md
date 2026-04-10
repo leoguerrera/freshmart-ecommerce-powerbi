@@ -81,7 +81,7 @@ Star Schema com 3 tabelas fato e 2 tabelas dimensão.
 
 ## Autor
 
-**Leonardo Guerrera** — Engenheiro de Produção com 9+ anos em Supply Chain e Logística.
+**Leonardo Guerrera** — Supply Chain professional com 10 anos em Logística e Operações, em transição para Data Analytics.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-leonardo--guerrera-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/leonardo-guerrera/)
 [![GitHub](https://img.shields.io/badge/GitHub-leoguerrera-black?style=flat&logo=github)](https://github.com/leoguerrera)
