@@ -5,8 +5,6 @@ Cobre vendas, devoluções, estoque e rentabilidade em 5 páginas com navegaçã
 
 > Os dados deste projeto são fictícios, gerados para fins de portfólio.
 
-> Relatório interativo no Power BI Service será disponibilizado em breve.
-
 ---
 
 ## Páginas do Dashboard
